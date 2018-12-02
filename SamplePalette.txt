@@ -1,0 +1,7 @@
+//Example of a color scheme
+#BB8954	Dark Khaki
+#7E5233	Sienna
+#442E27	Dark Olive Green
+#EAEBF0	Light Steel Blue
+#8C8B90	Light Slate Green
+
